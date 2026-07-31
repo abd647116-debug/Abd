@@ -1,0 +1,8 @@
+{
+  "name": "Remix متجر فيلفيرا للأزياء النسائية",
+  "description": "متجر إلكتروني متكامل لبيع الملابس النسائية الفاخرة مع فلاتر متقدمة للقياس، السعر، ونوعية الخامة والجودة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
